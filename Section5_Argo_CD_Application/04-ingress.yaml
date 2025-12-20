@@ -4,8 +4,7 @@ items:
   kind: Ingress
   metadata:
     annotations:
-      nginx.ingress.kubernetes.io/backend-protocol: HTTPS
-    creationTimestamp: "2025-10-25T05:02:01Z"
+      nginx.ingress.kubernetes.io/backend-protocol: HTTP
     generation: 1
     name: demoapp-ingress
     namespace: demoapp-ns
