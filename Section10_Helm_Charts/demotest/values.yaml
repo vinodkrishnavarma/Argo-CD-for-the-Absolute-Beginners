@@ -12,6 +12,6 @@ image:
   tag: "v1"
 
 service:
-  type: NodePort
+  type: ClusterIP
   port: 80
-  nodePort: 31099
+  targetPort: 80
