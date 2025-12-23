@@ -10,6 +10,6 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/yogeshraheja/Argo-CD-for-the-Absolute-Beginners.git
+    repoURL: https://github.com/nwsystems/Argo-CD-for-the-Absolute-Beginners.git
     path: Section13_Declarative_Demo/apps
     targetRevision: HEAD
