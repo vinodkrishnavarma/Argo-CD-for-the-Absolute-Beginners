@@ -15,6 +15,6 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/nwsystems/Argo-CD-for-the-Absolute-Beginners.git
+    repoURL: https://github.com/vinodkrishnavarma/Argo-CD-for-the-Absolute-Beginners.git
     path: Section13_Declarative_Demo/apps/webapptwo
     targetRevision: HEAD
