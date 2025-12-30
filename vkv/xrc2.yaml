@@ -6,4 +6,4 @@ metadata:
 spec:
   appName: "vkv-frontend2"
   image: "nginx:1.25"
-  replicas: 1
+  replicas: 3
