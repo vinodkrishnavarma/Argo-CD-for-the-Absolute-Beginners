@@ -2,6 +2,7 @@ apiVersion: apps.lab.io/v1alpha1
 kind: AppClaim
 metadata:
   name: vkkv-app1
+  namespace: vkkv-app1
 spec:
   appName: "vkv-frontend1"
   image: "nginx:1.25"
