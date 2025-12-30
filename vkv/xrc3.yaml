@@ -1,9 +1,0 @@
-apiVersion: apps.lab.io/v1alpha1
-kind: AppClaim
-metadata:
-  name: vkkv-app3
-  namespace: vkkv-app3
-spec:
-  appName: "vkv-frontend3"
-  image: "nginx:1.25"
-  replicas: 3
